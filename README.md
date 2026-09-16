@@ -66,6 +66,16 @@ Também sou fundador da **Orvysion Technology**, iniciativa voltada à criação
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrHenriqueBR&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
+## Minhas contribuições 🐍
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrHenriqueBR/SrHenriqueBR/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrHenriqueBR/SrHenriqueBR/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação da cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/SrHenriqueBR/SrHenriqueBR/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## Vamos conversar?
 
 <div>
