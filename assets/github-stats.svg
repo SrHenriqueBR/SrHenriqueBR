@@ -1,10 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="510" height="218" viewBox="0 0 510 218" role="img" aria-label="Estatísticas do GitHub, atualização em preparação">
-<title>Atividade no GitHub</title>
-<rect x="1" y="1" width="508" height="216" rx="17" fill="#161a2a" stroke="#37415c" stroke-width="1.5"/>
-<path d="M22 54H488" stroke="#333b56"/>
-<text x="22" y="34" font-size="17" font-weight="700" font-family="Segoe UI,Arial,sans-serif" fill="#c0caf5">Atividade no GitHub</text>
-<text x="22" y="101" font-size="29" font-weight="750" font-family="Segoe UI,Arial,sans-serif" fill="#7aa2f7">Atualização em preparação</text>
-<text x="22" y="141" font-size="13" font-family="Segoe UI,Arial,sans-serif" fill="#c0caf5">Os dados serão preenchidos pela API oficial do GitHub.</text>
-<text x="22" y="166" font-size="12" font-family="Segoe UI,Arial,sans-serif" fill="#9aa5c2">Commits · Repositórios · Stars · Contribuições</text>
-<text x="22" y="196" font-size="11" font-family="Segoe UI,Arial,sans-serif" fill="#7f8ba9">Cartão hospedado neste repositório; sem serviço de imagens externo.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="218"
+ viewBox="0 0 510 218" role="img" aria-label="Atividade no GitHub">
+ <title>Atividade no GitHub</title>
+ <rect x="1" y="1" width="508" height="216" rx="17"
+       fill="#161a2a" stroke="#37415c" stroke-width="1.5"/>
+ <path d="M22 54H488" stroke="#333b56" stroke-width="1"/>
+ <text x="22" y="34" font-family="Segoe UI,Arial,sans-serif" font-size="17"
+       font-weight="700" fill="#c0caf5">Atividade no GitHub</text>
+ <text x="488" y="34" font-family="Segoe UI,Arial,sans-serif"
+       font-size="10" text-anchor="end" fill="#8b96b8">05/11/2026</text>
+ 
+ <text x="22" y="116" fill="#7aa2f7" font-family="Segoe UI,Arial,sans-serif"
+       font-size="52" font-weight="800">147</text>
+ <text x="22" y="141" fill="#a6accd" font-family="Segoe UI,Arial,sans-serif"
+       font-size="11">Commits públicos · últimos 12 meses</text>
+ <text x="270" y="94" fill="#bb9af7" font-family="Segoe UI,Arial,sans-serif"
+       font-size="25" font-weight="700">6</text>
+ <text x="270" y="114" fill="#a6accd" font-family="Segoe UI,Arial,sans-serif"
+       font-size="11">Repositórios públicos</text>
+ <text x="400" y="94" fill="#9ece6a" font-family="Segoe UI,Arial,sans-serif"
+       font-size="25" font-weight="700">0</text>
+ <text x="400" y="114" fill="#a6accd" font-family="Segoe UI,Arial,sans-serif"
+       font-size="11">Stars recebidas</text>
+ <path d="M22 159H488" stroke="#333b56" stroke-width="1"/>
+ <text x="22" y="185" fill="#c0caf5" font-family="Segoe UI,Arial,sans-serif"
+       font-size="12">Contribuições no período</text>
+ <text x="210" y="185" fill="#bb9af7" font-family="Segoe UI,Arial,sans-serif"
+       font-size="15" font-weight="700">237</text>
+ <text x="22" y="203" fill="#7f8ba9" font-family="Segoe UI,Arial,sans-serif"
+       font-size="10">Fonte: API oficial do GitHub · “—” significa dado indisponível</text>
+
+ </svg>
