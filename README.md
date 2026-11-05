@@ -1,59 +1,106 @@
 # Olá! Eu sou o Luiz Henrique 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Analista+de+Suporte+e+Infraestrutura;Desenvolvedor+Web;Power+BI+%7C+Dados+%7C+Automa%C3%A7%C3%A3o;Transformando+problemas+em+solu%C3%A7%C3%B5es" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Desenvolvimento+de+Sistemas+Full+Stack;Front-end+%7C+Back-end+%7C+APIs;Intelig%C3%AAncia+Artificial+%7C+LLMs;C%2B%2B+%7C+C%23+%7C+Frameworks;Infraestrutura+%7C+Dados+%7C+Automa%C3%A7%C3%A3o" alt="Apresentação profissional animada: desenvolvimento full stack, inteligência artificial, infraestrutura e dados" />
 </div>
 
 ## Sobre mim
 
 Sou graduado em **Ciência da Computação** e apaixonado por tecnologia, resolução de problemas e criação de soluções que realmente facilitam o dia a dia.
 
-Minha experiência reúne três áreas que se complementam:
+Atuo na interseção entre **desenvolvimento de sistemas, infraestrutura, dados e inteligência artificial aplicada**, transformando necessidades reais em soluções digitais.
 
-- 🖥️ **Suporte técnico e infraestrutura:** atendimento N1/N2, hardware, software, Windows, Active Directory, Microsoft 365 e redes.
-- 🌐 **Desenvolvimento web:** criação de sites, sistemas e interfaces modernas.
-- 📊 **Dados e Business Intelligence:** Power BI, Power Query, DAX, ETL/ELT, SQL, automações e dashboards executivos.
+- 🎨 **Front-end:** desenvolvimento de interfaces responsivas, aplicações web e experiências interativas com HTML, CSS, JavaScript, TypeScript, Vue.js e Bootstrap.
+- ⚙️ **Back-end:** desenvolvimento de funcionalidades de sistemas, integrações, regras de negócio, APIs e persistência de dados com PHP, Laravel, Python e SQL.
+- 🤖 **Inteligência artificial:** aplicações com modelos de linguagem (LLMs), inferência local via Ollama, integração de ferramentas, memória persistente e interfaces inteligentes.
+- 🖥️ **Suporte e infraestrutura:** atendimento N1/N2, Windows, Active Directory, Microsoft 365, redes, troubleshooting e manutenção de ambientes.
+- 📊 **Dados e BI:** Power BI, Power Query, DAX, ETL/ELT, bancos relacionais e dashboards para tomada de decisão.
 
-Também sou fundador da **Orvysion Technology**, iniciativa voltada à criação de sites, sistemas e soluções digitais.
+Sou graduado em **Ciência da Computação** e fundador da **Orvysion Technology**, iniciativa voltada à criação de sites, sistemas e soluções digitais.
 
 ## Tecnologias e ferramentas
 
-### Desenvolvimento
+### 🎨 Front-end e interfaces
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,vue,php,laravel,python" alt="Tecnologias de desenvolvimento" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,bootstrap,jquery,wordpress" alt="HTML5, CSS3, JavaScript, TypeScript, Vue.js, Bootstrap, jQuery e WordPress" />
 </div>
 
-### Bancos de dados e dados
+- **Linguagens:** HTML5, CSS3, JavaScript e TypeScript.
+- **Frameworks e bibliotecas:** Vue.js, Bootstrap e jQuery.
+- **CMS e ferramentas:** WordPress, Elementor e interfaces responsivas.
+- **Conceitos:** componentes, integração com APIs, usabilidade e experiência do usuário.
+
+### ⚙️ Back-end e desenvolvimento de sistemas
 
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Bancos de dados" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postgres,sqlite,git,github" alt="PHP, Laravel, Python, MySQL, PostgreSQL, SQLite, Git e GitHub" />
 </div>
 
-- Power BI
-- Power Query
-- DAX
-- ETL e ELT
-- Excel
-- Modelagem e visualização de dados
+- **Linguagens e frameworks:** PHP, Laravel e Python.
+- **Arquitetura e integração:** lógica de negócio, APIs REST, comunicação entre serviços e automação de processos.
+- **Persistência e dados:** MySQL, PostgreSQL e SQLite; consultas SQL e modelagem relacional.
+- **Ferramentas de engenharia:** Git, GitHub, versionamento, testes e integração contínua com GitHub Actions.
 
-### Suporte e infraestrutura
+### 🤖 Inteligência Artificial, LLMs e automação inteligente
 
-- Atendimento técnico N1/N2
-- Windows e Microsoft 365
-- Active Directory
-- Redes TCP/IP, DNS e DHCP
-- Switches, cabeamento e infraestrutura local
-- Diagnóstico de hardware e software
-- Análise de logs e monitoramento
-- Zendesk e gestão de chamados
+<div>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,pytorch" alt="Python, C++, C# e PyTorch como parte do ecossistema de engenharia e estudos em inteligência artificial" />
+</div>
+
+**Aplicação prática e projetos:**
+- **Ollama e modelos LLM locais:** execução e integração de modelos de linguagem em aplicações.
+- **Python e PySide6 (Qt):** desenvolvimento de interfaces desktop e fluxos que conectam IA a recursos locais.
+- **Whisper / faster-whisper:** reconhecimento e transcrição de voz em projetos de assistente.
+- **SQLite e automação:** memória persistente, estados de conversação, ferramentas e rotinas controladas.
+- **Three.js, Vite, WebGL e VRM:** interfaces de personagem 3D e animação em tempo real para aplicações com IA.
+- **C++ e C#:** experimentação com componentes compilados, integração Windows e protótipos de animação no Unreal Engine.
+
+**Aprofundamento e roadmap técnico:** PyTorch, Hugging Face Transformers, ONNX Runtime, RAG e otimização de inferência. Essas tecnologias representam temas de estudo e evolução, não todas implementações concluídas no portfólio.
+
+### 🧩 Linguagens compiladas, runtimes e frameworks
+
+| Ecossistema | Tecnologias e aplicações |
+| --- | --- |
+| **Web / Full Stack** | JavaScript, TypeScript, Vue.js, Bootstrap, PHP e Laravel |
+| **Python / IA / Desktop** | Python, PySide6 (Qt), Ollama, faster-whisper e integração de modelos |
+| **C++ / 3D** | C++, Unreal Engine 5, animação procedural e experimentação em tempo real |
+| **C# / Windows** | C#, integração com aplicações Windows e componentes de inicialização |
+| **Renderização web 3D** | Three.js, WebGL, Vite e @pixiv/three-vrm |
+| **Entrega e qualidade** | Git, GitHub Actions, testes, empacotamento de aplicações e versionamento |
+
+> Os itens de **C++/Unreal e C#/Windows** refletem trabalhos e protótipos em evolução. Meu foco é consolidar desenvolvimento de sistemas e engenharia de IA aplicada com entregas práticas.
+
+### 📊 Bancos de dados e Business Intelligence
+
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="MySQL, PostgreSQL e SQLite" />
+</div>
+
+**Power BI** · **Power Query** · **DAX** · **ETL/ELT** · **Excel** · **Modelagem de dados** · **SQL** · **Dashboards**
+
+### 🖥️ Suporte, infraestrutura e operações
+
+**N1/N2** · **Windows 10/11** · **Active Directory** · **Microsoft 365** · **TCP/IP** · **DNS/DHCP** · **Redes locais e VLANs** · **Hardware e software** · **Zendesk** · **Troubleshooting e monitoramento**
+
+## Projetos em destaque
+
+### 🤖 [Projeto Yuna — Assistente de IA local](https://github.com/SrHenriqueBR/Projeto-Yuna)
+
+Assistente pessoal para Windows desenvolvido com **Python, interface Qt/PySide6, Ollama e SQLite**, com módulos de voz, memória local, ferramentas autorizadas e personagem digital. O projeto também explora **Three.js/VRM, C++ e Unreal Engine** para evolução de avatares 3D.
+
+**Tecnologias:** Python · PySide6 · Ollama · SQLite · JavaScript · Three.js · C++ (experimental) · C# (integração Windows)
+
+### 🌐 Orvysion Technology
+
+Iniciativa voltada ao desenvolvimento de **sites, interfaces, sistemas web e automações**, combinando tecnologias de front-end, back-end e soluções digitais sob demanda.
 
 ## No que estou trabalhando
 
-- Desenvolvimento de sites e sistemas pela **Orvysion Technology**
-- Projetos de análise de dados e dashboards em Power BI
-- Aprimoramento em infraestrutura, cloud e segurança
-- Automações para tornar processos mais rápidos e eficientes
+- Construção e aprimoramento de **sistemas Full Stack**, integração de APIs e bancos de dados.
+- Evolução do **Projeto Yuna**, com IA local, assistente desktop, voz e animação de personagens.
+- Estudo e experimentação de **modelos de IA, frameworks, C++ e C#**.
+- Soluções de **Power BI, automação, infraestrutura e suporte técnico**.
 
 ## Estatísticas do GitHub
 
