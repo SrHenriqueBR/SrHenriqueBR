@@ -105,9 +105,11 @@ Iniciativa voltada ao desenvolvimento de **sites, interfaces, sistemas web e aut
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SrHenriqueBR&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrHenriqueBR&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+  <img width="49%" src="assets/github-stats.svg" alt="Atividade no GitHub: commits públicos, contribuições, repositórios e stars" />
+  <img width="49%" src="assets/top-languages.svg" alt="Linguagens dos meus repositórios públicos, por volume de código" />
 </div>
+
+<sub>📌 **Dados atualizados diariamente pelo GitHub Actions**, usando a API oficial e imagens SVG mantidas neste repositório. O número de commits representa as contribuições reconhecidas pelo GitHub nos últimos 12 meses, não necessariamente todos os commits existentes em qualquer branch. O gráfico de linguagens mede volume de código, não nível de conhecimento.</sub>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrHenriqueBR&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
